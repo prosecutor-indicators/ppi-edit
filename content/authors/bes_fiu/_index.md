@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD, Criminal Justice
     institution: The Graduate Center of the City University of New York
-    year: 2005
+    year: 2008
   - course: MA, Criminal Justice, John Jay College of Criminal Justice 
     institution: John Jay College of Criminal Justice
     year: 2005
