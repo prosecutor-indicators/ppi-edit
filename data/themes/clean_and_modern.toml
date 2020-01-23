@@ -1,0 +1,23 @@
+# Theme metadata
+name = "cam"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#cc474f"
+
+# Menu
+menu_primary = "#211D23"
+menu_text = "#ffffff" #"#3AAFA9"
+menu_text_active = "#cc474f"
+menu_title = "#FFEFFF"
+
+
+# Home sections
+home_section_odd = "#ffffff"
+home_section_even = "#f6f6f6" #"#2e3440" 
+
+
+
+####
