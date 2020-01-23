@@ -34,10 +34,3 @@ weight: 2
 - Evaluate and meet training needs for your IT and data staff.
 - Recruit and train researchers and/or IT specialists to grow your office capacity for collecting and analyzing data. 
 
-## 7. Data Collection
-
-- Collect, clean, and analyze the PPI data on monthly, quarterly, and annual bases. 
-- Present this information in data dashboards, spreadsheets, or charts and graphs. 
-- Routinize and automatize the process of data extraction, analysis and presentation. 
-- Establish data quality control mechanisms. 
-- Plan to collect new data not currently available.
