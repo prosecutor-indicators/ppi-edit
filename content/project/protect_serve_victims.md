@@ -1,7 +1,7 @@
 ---
-title: "Protect & Serve Victims"
+title: "Protecting & Serving Victims"
 subtitle: ""
-summary: " "
+summary: "Community Safety"
 authors: [""]
 tags: ['Community Safety']
 categories: ['Community Safety']

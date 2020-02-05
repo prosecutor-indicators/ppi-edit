@@ -1,5 +1,5 @@
 ---
-title: Planning
+title: Planning Phase
 linktitle: 
 toc: true
 type: docs
@@ -8,10 +8,10 @@ draft: false
 menu:
   example:
     parent: 
-    weight: 1
+    weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+weight: 2
 ---
 
 ## 1. Overcoming challenges 

@@ -1,7 +1,7 @@
 ---
 title: "Minimize Unnecessary Punitiveness"
 subtitle: ""
-summary: " "
+summary: "Fairness & Justice"
 authors: [""]
 tags: ['Fairness_Justice']
 categories: ['Fairness_Justice']

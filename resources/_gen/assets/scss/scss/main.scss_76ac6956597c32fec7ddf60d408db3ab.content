@@ -7397,7 +7397,7 @@ a.badge:hover {
   font-size: 0.9rem;
   padding: 10px 14px 9px;
   border: none;
-  background-color: #211D23; }
+  background-color: #000000; }
 
 .btn-toolbar .btn:first-child {
   border-radius: 6px 0 0 6px; }
@@ -7531,7 +7531,7 @@ div.alert a {
  **************************************************/
 .navbar {
   height: 70px;
-  background: #211D23;
+  background: #000000;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(0, 0, 0, 0.11);
   font-size: 16.17px;
   position: fixed;
@@ -7636,7 +7636,7 @@ div.alert a {
     left: 0;
     top: 50px;
     width: 100%;
-    background-color: #211D23;
+    background-color: #000000;
     text-align: center !important; }
   #navbar-main .main-menu-item .nav-item {
     padding: 10px 15px !important; }
@@ -7660,12 +7660,12 @@ ul.nav-icons li.nav-item a.nav-link {
   padding: 0; }
 
 .dropdown-menu {
-  background-color: #211D23 !important;
+  background-color: #000000 !important;
   color: #ffffff !important;
   z-index: 1032; }
 
 .dropdown-item {
-  background-color: #211D23 !important;
+  background-color: #000000 !important;
   color: #ffffff !important; }
 
 /*************************************************

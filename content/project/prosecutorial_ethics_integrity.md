@@ -1,7 +1,7 @@
 ---
 title: "Prosecutorial Ethics Integrity"
 subtitle: ""
-summary: " "
+summary: "Fairness and Justice"
 authors: [""]
 tags: ['Fairness_Justice']
 categories: ['Fairness_Justice']

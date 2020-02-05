@@ -1,7 +1,7 @@
 ---
-title: "Racial & Ethnic Differences"
+title: "Addressing Racial & Ethnic Differences"
 subtitle: ""
-summary: " "
+summary: "Fairness and Justice"
 authors: [""]
 tags: ['Fairness_Justice']
 categories: ['Fairness_Justice']

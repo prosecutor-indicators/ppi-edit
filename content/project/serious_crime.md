@@ -1,12 +1,12 @@
 ---
-title: "Address Serious Crime"
+title: "Addressing Serious Reported Crime"
 subtitle: ""
-summary: " "
+summary: "Community Safety"
 authors: [""]
 tags: ['Community Safety']
 categories: ['Community Safety']
 date: 2019-12-04T22:06:05-06:00
-lastmod: 2019-12-04T22:06:05-06:00
+lastmod: 2019-12-05T22:06:05-06:00
 featured: false
 draft: false
 open_data: ""

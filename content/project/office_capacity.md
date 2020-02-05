@@ -1,7 +1,7 @@
 ---
 title: "Organizational and Staff Capacity"
 subtitle: ""
-summary: " "
+summary: "Capacity & Efficiency"
 authors: [""]
 tags: ['Capacity_Efficiency']
 categories: ['Capacity & Efficiency']

@@ -1,7 +1,7 @@
 ---
 title: "Community Outreach & Engagement"
 subtitle: ""
-summary: " "
+summary: "Community Safety"
 authors: [""]
 tags: ['Community Safety']
 categories: ['Community Safety']

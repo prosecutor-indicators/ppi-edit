@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: Implementation Guide
+linktitle: Implementation FAQ
 summary: A guide on implementing Prosecutorial Performance Measures
 weight: 1
 
 # Page metadata.
-title: Implementation Guide
+title: Implementation FAQ
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: Introduction
+    name: Implementation FAQ
     weight: 1
 ---
 
@@ -40,24 +40,24 @@ disparities in plea offers, accuracy in charging, and conviction integrity
 reviews.
 
 ## What PPIs don’t measure
-PPIs are not designed to measure individual prosecutor performance.
+> PPIs are not designed to measure individual prosecutor performance.
 Instead, they measure unit-level and office-wide performance over time.
 They also do not measure public opinion. While important, most offices do
 not have the ability to regularly survey the public about their performance.
 
 ## How PPIs are organized
-Indicators are organized within nine topics. These topics form three
+> Indicators are organized within nine topics. These topics form three
 themes: Capacity & Efficiency, Community Safety & Well-Being, and
 Fairness and Justice.
 
 ## Choosing PPIs for your office
-Not every office has the capacity or desire to use each of the PPIs. Offices
+> Not every office has the capacity or desire to use each of the PPIs. Offices
 can select and modify PPIs to meet their needs, community interests, and
 data requirements. However, we strongly encourage offices to adopt at
 least three PPIs from each of the nine topics.
 
 ## What data sources PPIs use
-Case management systems are the primary source of data for the PPIs.
+> Case management systems are the primary source of data for the PPIs.
 Other data sources may include the clerk of the court, the sheriff’s office,
 and human resources staff within prosecutor’s offices. Because an office’s
 current capacity is unlikely to permit data collection for all desired PPIs,
@@ -65,7 +65,7 @@ each office should discuss what additional data to collect and how to do so
 with minimal resource expenditure.
 
 ## How frequently to collect data for PPIs
-PPIs are measured either monthly, quarterly, or annually. PPIs about
+> PPIs are measured either monthly, quarterly, or annually. PPIs about
 dynamic office activities, such as average caseloads, are measured
 monthly. Other PPIs that capture events occurring less frequently, such as
 case reversals, are measured quarterly. Still other PPIs, such as staff
@@ -73,7 +73,7 @@ diversity, are measured annually because they are not expected to change
 monthly or quarterly.
 
 ## How the PPIs were developed
-PPIs were developed through discussions with district and state attorneys,
+> PPIs were developed through discussions with district and state attorneys,
 consultation with experts on prosecution and performance measurement,
 interviews with over 75 line prosecutors, field testing in four offices, review
 of existing criminal justice indicator tools, and our own experience

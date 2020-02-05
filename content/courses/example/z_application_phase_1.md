@@ -1,5 +1,5 @@
 ---
-title: Application
+title: Application Phase
 linktitle:
 toc: true
 type: docs
@@ -8,10 +8,10 @@ draft: false
 menu:
   example:
     parent: 
-    weight:
+    weight: 4
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 3
+weight: 4
 ---
 
 ## 7. Data Collection
