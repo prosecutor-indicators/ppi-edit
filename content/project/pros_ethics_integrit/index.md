@@ -1,12 +1,12 @@
 ---
 title: "Prosecutorial Ethics Integrity"
 subtitle: ""
-summary: "Fairness and Justice"
+summary: "Fairness & Justice"
 authors: [""]
 tags: ['Fairness_Justice']
 categories: ['Fairness_Justice']
-date: 2019-12-04T22:06:05-06:00
-lastmod: 2019-12-04T22:06:05-06:00
+date: 2019-12-12
+lastmod: 2019-12-12
 featured: false
 draft: false
 open_data: ""
@@ -20,7 +20,7 @@ share: false
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

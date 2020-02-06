@@ -1,12 +1,12 @@
 ---
-title: "Community Outreach & Engagement"
+title: "Protecting & Serving Victims"
 subtitle: ""
-summary: "Community Safety"
+summary: "Community Safety and Well-Being"
 authors: [""]
 tags: ['Community Safety']
 categories: ['Community Safety']
-date: 2019-12-04T22:06:05-06:00
-lastmod: 2019-12-04T22:06:05-06:00
+date: 2019-12-09
+lastmod: 2019-12-09
 featured: false
 draft: false
 open_data: ""
@@ -20,7 +20,7 @@ share: false
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

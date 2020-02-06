@@ -1,12 +1,12 @@
 ---
-title: "Minimize Unnecessary Punitiveness"
+title: "Timeliness of Case Processing"
 subtitle: ""
-summary: "Fairness & Justice"
+summary: "Capacity & Efficiency"
 authors: [""]
-tags: ['Fairness_Justice']
-categories: ['Fairness_Justice']
-date: 2019-12-04T22:06:05-06:00
-lastmod: 2019-12-04T22:06:05-06:00
+tags: ['Capacity_Efficiency']
+categories: ['Capacity & Efficiency']
+date: 2019-12-10
+lastmod: 2019-12-10
 featured: false
 draft: false
 open_data: ""
@@ -19,8 +19,8 @@ share: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
-  preview_only: false
+  focal_point: "Smart"
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

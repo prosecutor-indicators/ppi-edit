@@ -1,12 +1,12 @@
 ---
-title: "Organizational and Staff Capacity"
+title: "Time and Resource Prioritization"
 subtitle: ""
 summary: "Capacity & Efficiency"
 authors: [""]
 tags: ['Capacity_Efficiency']
 categories: ['Capacity & Efficiency']
-date: 2019-12-04T22:06:05-06:00
-lastmod: 2019-12-04T22:06:05-06:00
+date: 2019-12-10
+lastmod: 2019-12-05
 featured: false
 draft: false
 open_data: ""
@@ -20,7 +20,7 @@ share: false
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

@@ -1,18 +1,18 @@
 ---
-title: "Time and Resource Prioritization"
+title: "Addressing Racial & Ethnic Differences"
 subtitle: ""
-summary: "Capacity & Efficiency"
+summary: "Fairness & Justice"
 authors: [""]
-tags: ['Capacity_Efficiency']
-categories: ['Capacity & Efficiency']
-date: 2019-12-10
-lastmod: 2019-12-05
+tags: ['Fairness_Justice']
+categories: ['Fairness_Justice']
+date: 2019-12-12
+lastmod: 2019-12-12
 featured: false
 draft: false
 open_data: ""
 compatibility: ["Web & mobile"]
 layout: "project"
-share: false
+share: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -20,7 +20,7 @@ share: false
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

@@ -5,12 +5,12 @@ name = "cam"
 light = true
 
 # Primary
-primary = "#cc474f"
+primary = "#ca562c"
 
 # Menu
 menu_primary = "#000000"
 menu_text = "#ffffff" #"#3AAFA9"
-menu_text_active = "#cc474f"
+menu_text_active = "#ca562c"
 menu_title = "#FFEFFF"
 
 

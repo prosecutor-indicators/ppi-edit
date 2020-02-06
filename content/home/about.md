@@ -8,7 +8,7 @@ weight = 5  # Order that this section will appear.
 title = ""
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "dark_red_chart.png" #"pretrial-time-to-disposition.png"
+hero_media = "orange_red_chart.png" #"pretrial-time-to-disposition.png"
 
 [design.background]
   # Apply a background color, gradient, or image.

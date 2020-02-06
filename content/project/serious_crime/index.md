@@ -1,26 +1,27 @@
 ---
-title: "Protecting & Serving Victims"
+title: "Addressing Serious Reported Crime"
 subtitle: ""
-summary: "Community Safety"
+summary: "Community Safety and Well-Being"
 authors: [""]
 tags: ['Community Safety']
 categories: ['Community Safety']
-date: 2019-12-04T22:06:05-06:00
-lastmod: 2019-12-04T22:06:05-06:00
+date: 2019-12-09
+lastmod: 2019-12-09
 featured: false
 draft: false
 open_data: ""
 compatibility: ["Web & mobile"]
 layout: "project"
 share: false
+image: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "featured"
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
