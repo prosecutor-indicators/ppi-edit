@@ -3,7 +3,7 @@ title: "Time and Resource Prioritization"
 subtitle: ""
 summary: "Capacity & Efficiency"
 authors: [""]
-tags: ['Capacity_Efficiency']
+tags: ['Capacity & Efficiency']
 categories: ['Capacity & Efficiency']
 date: 2019-12-10
 lastmod: 2019-12-05

@@ -3,7 +3,7 @@ title: "Organizational and Staff Capacity"
 subtitle: ""
 summary: "Capacity & Efficiency"
 authors: [""]
-tags: ['Capacity_Efficiency']
+tags: ['Capacity & Efficiency']
 categories: ['Capacity & Efficiency']
 date: 2019-12-10
 lastmod: 2019-12-10
@@ -30,5 +30,17 @@ image:
 projects: []
 ---
 
+
+
+
+
+| Office Felony and Misdemeanor Caseloads | Capacity & Efficiency                                                                                |
+|-----------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| Indicator 1.1                  | Topic : Organizational & Staff Capacity                                                                                      |
+| How it's Measured                 | Average number of misdemeanor and felony cases handled by attorneys                                                       |
+| Data Elements Needed              | 1. Number of misdemeanor filings 2. Number of felony filings 3. Number of prosecutors 4. Date of case filing              |
+| Frequency                         | 30 days                                                                                                                   |
+| Desired Direction                 | Decrease in Caseload
+| Rationale For Measuring Indicator | Community members should feel comfortable visiting the prosecutors’ office to report crime or otherwise seek assistance\. |
 
 

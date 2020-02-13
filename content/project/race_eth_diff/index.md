@@ -31,4 +31,14 @@ projects: []
 ---
 
 
-
+**Office Felony and Misdemeanor Caseloads   **|**Theme: Capacity & Efficiency**
+:-----:|:-----:
+Indicator 1.1|Topic : Organizational & Staff Capacity
+How it’s measured|Average number of misdemeanor and felony cases handled by attorneys 
+Data elements needed|"1.
+2.Number of felony filings
+3.Number of prosecutors
+4.Date of case filing"
+Frequency |Monthly 
+Desired direction|Decrease in caseload
+Rationale for measuring this indicator|Prosecutors are responsible for handling large volumes of cases. High caseloads limit the time and attention prosecutors can give to each case, which may affect the quality and speed of case processing.
