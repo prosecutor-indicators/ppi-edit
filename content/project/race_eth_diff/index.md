@@ -1,5 +1,5 @@
 ---
-title: "Addressing Racial & Ethnic Differences"
+title: "Racial & Ethnic Differences"
 subtitle: ""
 summary: "Fairness & Justice"
 authors: [""]

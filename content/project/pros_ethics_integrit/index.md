@@ -1,5 +1,5 @@
 ---
-title: "Prosecutorial Ethics Integrity"
+title: "Prosecutorial Ethics & Integrity"
 subtitle: ""
 summary: "Fairness & Justice"
 authors: [""]

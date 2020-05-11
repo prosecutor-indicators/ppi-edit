@@ -1,5 +1,5 @@
 ---
-title: "Organizational and Staff Capacity"
+title: "Organizational & Staff Capacity"
 subtitle: ""
 summary: "Capacity & Efficiency"
 authors: [""]

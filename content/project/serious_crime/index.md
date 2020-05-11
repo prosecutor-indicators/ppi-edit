@@ -1,5 +1,5 @@
 ---
-title: "Addressing Serious Reported Crime"
+title: "Addressing Serious Crime"
 subtitle: ""
 summary: "Community Safety and Well-Being"
 authors: [""]

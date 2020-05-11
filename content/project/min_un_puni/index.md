@@ -1,5 +1,5 @@
 ---
-title: "Minimize Unnecessary Punitiveness"
+title: "Minimizing Unnecessary Punitiveness"
 subtitle: ""
 summary: "Fairness & Justice"
 authors: [""]

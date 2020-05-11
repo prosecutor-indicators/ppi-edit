@@ -7701,10 +7701,10 @@ ul.nav-icons li.nav-item a.nav-link {
 .card .card-image {
   display: block;
   position: relative;
-  min-height: 100px; }
+  min-height: 75px; }
 
 .card h4 {
-  font-size: 0.9rem;
+  font-size: 0.69rem;
   font-weight: 700;
   line-height: 1.5;
   text-transform: uppercase; }
