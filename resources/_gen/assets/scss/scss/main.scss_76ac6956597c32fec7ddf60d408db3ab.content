@@ -7704,7 +7704,7 @@ ul.nav-icons li.nav-item a.nav-link {
   min-height: 75px; }
 
 .card h4 {
-  font-size: 0.69rem;
+  font-size: 0.65rem;
   font-weight: 700;
   line-height: 1.5;
   text-transform: uppercase; }
