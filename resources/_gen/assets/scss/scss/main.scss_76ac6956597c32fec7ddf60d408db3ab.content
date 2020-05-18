@@ -9041,7 +9041,7 @@ div.mermaid {
   background: #fFffff;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   transition: all 0.2s ease-out;
-  width: 300px;
+  min-width: 300px;
   height: 200px;
   border-top: 5px solid #4575B5;
   font-size: 0.65rem;
@@ -9061,7 +9061,7 @@ div.mermaid {
   background: #fFffff;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   transition: all 0.2s ease-out;
-  width: 300px;
+  min-width: 300px;
   height: 200px;
   border-top: 5px solid #1B9E77;
   font-size: 0.65rem;
@@ -9080,7 +9080,7 @@ div.mermaid {
   background: #fFffff;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   transition: all 0.2s ease-out;
-  width: 300px;
+  min-width: 300px;
   height: 200px;
   border-top: 5px solid #CA562C;
   font-size: 0.65rem;
@@ -9241,7 +9241,7 @@ div.mermaid {
   width: 300px;
   height: 300px; }
 
-@media only screen and (min-width: 800px) {
+@media (min-width: 800px) {
   .wrapper {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -9283,4 +9283,5 @@ div.mermaid {
 .ppi-container {
   max-width: 1000px;
   margin: 0 auto 0 auto;
-  align-content: center; }
+  align-content: center;
+  align-items: center; }
