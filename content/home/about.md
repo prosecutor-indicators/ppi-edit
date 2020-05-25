@@ -52,5 +52,4 @@ hero_media = "orange_red_chart.png" #"pretrial-time-to-disposition.png"
 
 <small> <p> </p></small> 
 
-<small> The PPIs are the result of a partnership between prosecutors and researchers to promote more effective, just, and transparent decision
-making in prosecution. The project stems from a growing recognition that prosecutors need to become more data-driven and strategic. This work is funded by the John D. and Catherine T. MacArthur Foundation.</small> 
+<small> The PPIs are the result of a partnership between forward-thinking prosecutors and researchers at Florida International University and Loyola University Chicago to promote more effective, just, and transparent decision making in prosecution.</small> 
