@@ -19,10 +19,16 @@
   url = "#publications"
   weight = 45
 
+  
+[[main]]
+  name = "Partners"
+  url = "#our_partners"
+  weight = 46
+
 [[main]]
   name = "Team"
   url = "#team"
-  weight = 50
+  weight = 60
 
 [[main]]
   name = "Contact"

@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
-title = "Our Partners"
+title = "Our Advisors"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -47,30 +47,6 @@ title = "Our Partners"
 
 
 +++
-
-## Prosecutor Offices:
-
-#### The Office of the State Attorney for the 4th Judicial Circuit (Jacksonville, FL)
-
-- Serving Clay, Duval, and Nassau Counties, 1.2 million residents
-- Melissa Nelson, State Attorney since 2017
-- Office size: 116 attorneys and 34,964 cases filed in 2017
-
-#### The Cook County State’s Attorney’s Office (Chicago, IL)
-- Serving Chicago and Cook County, 5.2 million residents
-- Kim Foxx, State’s Attorney since 2016
-- Office size: 700 attorneys and 309,282 cases filed in 2017
-
-
-#### The Office of the State Attorney for the 13th Judicial Circuit (Tampa, FL)
-- Serving Hillsborough County, 1.4 million residents
-- Andrew Warren, State Attorney since 2017
-- Office size: 130 attorneys and 27,475 cases filed in 2017
-
-#### The Milwaukee County District Attorney’s Office (Milwaukee, WI) 
-- Serving Milwaukee County, 950,000 residents
-- John Chisholm, District Attorney since 2007
-- Office size: 130 attorneys and 10,465 cases filed in 2017
 
 ## Steering Committee
 - Tina Chiu - New York City Mayor’s Office of Criminal Justice
