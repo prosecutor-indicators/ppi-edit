@@ -68,6 +68,8 @@ title = "Our Advisors"
 - Gipsy Escobar -  Measures for Justice
 - Kim Foxx - The Cook County State’s Attorney’s Office (Chicago, IL)
 - David Harris -  University of Pittsburgh
+- David LaBahn - Association of Prosecuting Attorneys
+- Marlene Biener - Association of Prosecuting Attorneys
 - Kim Hindman - The Office of the State Attorney for the 13th Judicial Circuit (Tampa, FL)
 - Jamila Hodge - Vera Institute of Justice
 - Michael Jacobson - Institute for State and Local Governance
