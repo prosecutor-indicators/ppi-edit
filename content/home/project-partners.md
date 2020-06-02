@@ -59,7 +59,7 @@ title = "Our Advisors"
 
 ## Advisory Board
 
-
+- Marlene Biener - Association of Prosecuting Attorneys
 - John Chisholm -  The Milwaukee County District Attorney’s Office (Milwaukee, WI)
 - Stewart D’Alessio -  Florida International University
 - Reagan Daly -  Institute for State and Local Governance
@@ -68,11 +68,10 @@ title = "Our Advisors"
 - Gipsy Escobar -  Measures for Justice
 - Kim Foxx - The Cook County State’s Attorney’s Office (Chicago, IL)
 - David Harris -  University of Pittsburgh
-- David LaBahn - Association of Prosecuting Attorneys
-- Marlene Biener - Association of Prosecuting Attorneys
 - Kim Hindman - The Office of the State Attorney for the 13th Judicial Circuit (Tampa, FL)
 - Jamila Hodge - Vera Institute of Justice
 - Michael Jacobson - Institute for State and Local Governance
+- David LaBahn - Association of Prosecuting Attorneys
 - Kent Lovern - The Milwaukee County District Attorney’s Office (Milwaukee, WI)
 - Melissa Nelson -  The Office of the State Attorney for the 4th Judicial Circuit (Jacksonville, FL)
 - Lisa Page - The Office of the State Attorney for the 4th Judicial Circuit (Jacksonville, FL)
