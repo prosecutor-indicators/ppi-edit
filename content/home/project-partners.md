@@ -53,7 +53,7 @@ title = "Our Advisors"
 - Brian Johnson - University of Maryland
 - Miriam Krinsky - Fair and Just Prosecution
 - Anthony Thompson - New York University
-- Ronald Wright Wake - Forest University
+- Ronald Wright - Wake Forest University
 
 
 
