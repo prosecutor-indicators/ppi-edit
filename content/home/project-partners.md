@@ -60,28 +60,28 @@ title = "Our Advisors"
 ## Advisory Board
 
 - Marlene Biener - Association of Prosecuting Attorneys
-- John Chisholm -  The Milwaukee County District Attorney’s Office (Milwaukee, WI)
+- John Chisholm -  The Milwaukee County District Attorney’s Office
 - Stewart D’Alessio -  Florida International University
 - Reagan Daly -  Institute for State and Local Governance
 - Angela Davis - American University
 - Lauren-Brooke Eisen -  Brennan Center for Justice
 - Gipsy Escobar -  Measures for Justice
-- Kim Foxx - The Cook County State’s Attorney’s Office (Chicago, IL)
+- Kim Foxx - The Cook County State’s Attorney’s Office
 - David Harris -  University of Pittsburgh
-- Kim Hindman - The Office of the State Attorney for the 13th Judicial Circuit (Tampa, FL)
+- Kim Hindman - The Office of the State Attorney for the 13th Judicial Circuit
 - Jamila Hodge - Vera Institute of Justice
 - Michael Jacobson - Institute for State and Local Governance
 - David LaBahn - Association of Prosecuting Attorneys
-- Kent Lovern - The Milwaukee County District Attorney’s Office (Milwaukee, WI)
-- Melissa Nelson -  The Office of the State Attorney for the 4th Judicial Circuit (Jacksonville, FL)
-- Lisa Page - The Office of the State Attorney for the 4th Judicial Circuit (Jacksonville, FL)
+- Kent Lovern - The Milwaukee County District Attorney’s Office
+- Melissa Nelson -  The Office of the State Attorney for the 4th Judicial Circuit
+- Lisa Page - The Office of the State Attorney for the 4th Judicial Circuit
 - Insha Rahman - Vera Institute of Justice
-- Meg Reiss - The Brooklyn District Attorney’s Office (Brooklyn, NY)
+- Meg Reiss - The Brooklyn District Attorney’s Office
 - Luis Salas - Florida International University
-- Matthew Saniie - The Cook County State’s Attorney’s Office (Chicago, IL)
-- Steve Siegel - The Office of the State Attorney for the 4th Judicial Circuit (Jacksonville, FL)
+- Matthew Saniie - The Cook County State’s Attorney’s Office
+- Steve Siegel - The Office of the State Attorney for the 4th Judicial Circuit
 - Cassia Spohn - Arizona State University
 - Lisa Stolzenberg - Florida International University
-- Eric Thomas - The Office of the State Attorney for the 13th Judicial Circuit (Tampa, FL)
-- Andrew Warren - The Office of the State Attorney for the 13th Judicial Circuit (Tampa, FL)
+- Eric Thomas - The Office of the State Attorney for the 13th Judicial Circuit
+- Andrew Warren - The Office of the State Attorney for the 13th Judicial Circuit
 - Daniel Wilhelm - The Harry Frank Guggenheim Foundation
