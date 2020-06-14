@@ -15,8 +15,8 @@ menu_title = "#FFEFFF"
 
 
 # Home sections
-home_section_odd = "#ffffff"
-home_section_even = "#f6f6f6" #"#2e3440" 
+home_section_odd ="#f6f6f6" 
+home_section_even = "#ffffff" #"#2e3440" 
 
 
 
