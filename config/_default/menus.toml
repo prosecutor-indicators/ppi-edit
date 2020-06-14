@@ -30,11 +30,6 @@
   url = "#team"
   weight = 60
 
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 70
-
 
 
 # Link to a PDF of your resume/CV from the menu.
