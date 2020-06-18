@@ -23,8 +23,8 @@ height = '`calc(100vh - 70px)`'  # " `calc(100vh - 70px)`"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   # overlay_color =  "#F76C6C" # An HTML color value.
-  overlay_img = "sidewalk.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.7  # Darken the image. Value in range 0-1.
+  overlay_img = "ppi_fiu_image.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.75  # Darken the image. Value in range 0-1.
 
 
 
@@ -37,7 +37,7 @@ height = '`calc(100vh - 70px)`'  # " `calc(100vh - 70px)`"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
 
-  overlay_img = "building_black_white.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "ppi_presentation.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.6  # Darken the image. Value in range 0-1.
 
 [[item]]
