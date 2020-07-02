@@ -50,8 +50,8 @@ height = '`calc(100vh - 70px)`'  # " `calc(100vh - 70px)`"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
 
-  overlay_img = "chart_viz.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.6  # Darken the image. Value in range 0-1.
+  overlay_img = "cjc_presentation.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.65  # Darken the image. Value in range 0-1.
 
 
 +++
