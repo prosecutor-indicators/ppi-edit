@@ -17,7 +17,7 @@ height = '`calc(100vh - 70px)`'  # " `calc(100vh - 70px)`"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "**Prosecutorial Performance Indicators**"
-  content = "A suite of modern indicators for prosecutors committed to measuring effectiveness, efficiency, & fairness."
+  content = "A suite of modern indicators for prosecutors committed to measuring effectiveness, efficiency & fairness"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
