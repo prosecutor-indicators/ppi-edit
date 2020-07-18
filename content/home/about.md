@@ -54,4 +54,4 @@ hero_media = "orange_red_chart.png" #"pretrial-time-to-disposition.png"
 
 <p style="line-height: 120%;"> <small style="FONT-SIZE:18px">The PPIs are the result of a partnership between forward-thinking prosecutors and researchers at Florida International University and Loyola University Chicago to promote more effective, just, and transparent decision making in prosecution.</small></p> 
 
-<p style="line-height: 120%;"> <small style="FONT-SIZE:18px">There are three goals: <b>Improve Capacity and Efficiency</b>, <b>Increase Community Safety and Well-being</b>, and <b>Ensure Fairness and Justice</b>. Each goal has three objectives, creating a total of nine objectives.</small></p> 
+<p style="line-height: 120%;"> <small style="FONT-SIZE:18px">There are three goals: <b>Improving Capacity and Efficiency</b>, <b>Increasing Community Safety and Well-being</b>, and <b>Ensuring Fairness and Justice.</b> Each goal has three objectives.</small></p> 
