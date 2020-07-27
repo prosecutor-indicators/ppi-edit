@@ -30,5 +30,49 @@ image:
 projects: []
 ---
 
+## PPI 8.1
+
+<iframe title="" aria-label="chart" id="datawrapper-chart-CpeZ0" src="https://datawrapper.dwcdn.net/CpeZ0/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="414"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+<iframe title="Avoiding Unnecessary Felony Charges at Filing" aria-label="Interactive line chart" id="datawrapper-chart-CUcUg" src="https://datawrapper.dwcdn.net/CUcUg/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="450"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+## PPI 8.2
+
+<iframe title="" aria-label="chart" id="datawrapper-chart-owwnA" src="https://datawrapper.dwcdn.net/owwnA/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="464"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+<iframe title="Diversion as an Alternative to Incarceration" aria-label="Interactive line chart" id="datawrapper-chart-eI5wt" src="https://datawrapper.dwcdn.net/eI5wt/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+## PPI 8.3
+
+<iframe title="" aria-label="chart" id="datawrapper-chart-ANXn6" src="https://datawrapper.dwcdn.net/ANXn6/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="397"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+<iframe title="Reducing Reliance on Pretrial Detention" aria-label="Interactive line chart" id="datawrapper-chart-Xagfs" src="https://datawrapper.dwcdn.net/Xagfs/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="450"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+## PPI 8.4
+
+<iframe title="" aria-label="chart" id="datawrapper-chart-4zRJ9" src="https://datawrapper.dwcdn.net/4zRJ9/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="414"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+## PPI 8.5
+
+<iframe title="" aria-label="chart" id="datawrapper-chart-jRITB" src="https://datawrapper.dwcdn.net/jRITB/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="498"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+
+## PPI 8.6
+
+<iframe title="" aria-label="chart" id="datawrapper-chart-Apw1i" src="https://datawrapper.dwcdn.net/Apw1i/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="481"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
+## PPI 8.7
+
+<iframe title="" aria-label="chart" id="datawrapper-chart-7nLTa" src="https://datawrapper.dwcdn.net/7nLTa/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="599"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
 
 

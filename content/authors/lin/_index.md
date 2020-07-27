@@ -37,7 +37,7 @@ education:
     year: 2007
   - course: BA, Law
     institution: Hebei University of Technology, China
-    year: 1988
+    year: 2001
 
 
 
