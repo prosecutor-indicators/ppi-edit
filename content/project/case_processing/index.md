@@ -35,8 +35,10 @@ projects: []
 </script>
 
 
-<iframe title="Time to Felony Disposition" aria-label="Interactive line chart" id="datawrapper-chart-wImFI" src="https://datawrapper.dwcdn.net/wImFI/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="Time to Felony Disposition" aria-label="Interactive line chart" id="datawrapper-chart-wImFI" src="https://datawrapper.dwcdn.net/wImFI/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
+<hr></hr>
 
 ## PPI 3.2
 
@@ -49,6 +51,8 @@ projects: []
 <iframe title="Efficient Filing Decisions for Cases with Pretrial Detainees - Misdemeanor" aria-label="Interactive line chart" id="datawrapper-chart-q7b3P" src="https://datawrapper.dwcdn.net/q7b3P/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+<hr></hr>
+
 ## PPI 3.3
 
 <iframe title="" aria-label="chart" id="datawrapper-chart-0mFqH" src="https://datawrapper.dwcdn.net/0mFqH/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="464"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
@@ -60,6 +64,8 @@ projects: []
 <iframe title="Time to Disposition for Pretrial Detainees - Misdemeanor" aria-label="Interactive line chart" id="datawrapper-chart-HHfn6" src="https://datawrapper.dwcdn.net/HHfn6/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+<hr></hr>
+
 ## PPI 3.4
 
 <iframe title="" aria-label="chart" id="datawrapper-chart-bUPNo" src="https://datawrapper.dwcdn.net/bUPNo/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="414"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
@@ -68,6 +74,8 @@ projects: []
 <iframe title="Conforming to ABA Disposition Time Standards" aria-label="Interactive area chart" id="datawrapper-chart-WYdw9" src="https://datawrapper.dwcdn.net/WYdw9/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+<hr></hr>
+
 ## PPI 3.5
 
 <iframe title="" aria-label="chart" id="datawrapper-chart-YKW7r" src="https://datawrapper.dwcdn.net/YKW7r/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="447"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
@@ -75,6 +83,8 @@ projects: []
 
 <iframe title="Minimizing Delays in Case Processing by Limiting Continuances" aria-label="chart" id="datawrapper-chart-AMvOf" src="https://datawrapper.dwcdn.net/AMvOf/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="475"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
+<hr></hr>
 
 ## PPI 3.6
 
@@ -86,3 +96,5 @@ projects: []
 
 <iframe title="Dismissal Timeliness - Misdemeanor" aria-label="Interactive line chart" id="datawrapper-chart-o2UvG" src="https://datawrapper.dwcdn.net/o2UvG/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="450"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
+<hr></hr>

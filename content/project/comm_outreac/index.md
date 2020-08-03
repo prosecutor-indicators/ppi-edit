@@ -39,33 +39,43 @@ projects: []
 <iframe title="Accessibility of Prosecutor's Office" aria-label="chart" id="datawrapper-chart-SUyLN" src="https://datawrapper.dwcdn.net/SUyLN/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="450"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+<hr></hr>
+
 ## PPI 6.2
 
 <iframe title="" aria-label="chart" id="datawrapper-chart-mYHmH" src="https://datawrapper.dwcdn.net/mYHmH/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="431"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
+<hr></hr>
 
 ## PPI 6.3
 
 <iframe title="" aria-label="chart" id="datawrapper-chart-548Ir" src="https://datawrapper.dwcdn.net/548Ir/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="498"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+<hr></hr>
+
 ## PPI 6.4
 
 <iframe title="" aria-label="chart" id="datawrapper-chart-Xka3U" src="https://datawrapper.dwcdn.net/Xka3U/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="431"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
+<hr></hr>
 
 ## PPI 6.5
 
 <iframe title="" aria-label="chart" id="datawrapper-chart-qCP3h" src="https://datawrapper.dwcdn.net/qCP3h/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="431"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-<iframe title="Witness Cooperation" aria-label="Interactive line chart" id="datawrapper-chart-HONy2" src="https://datawrapper.dwcdn.net/HONy2/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="425"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="Witness Cooperation" aria-label="Interactive line chart" id="datawrapper-chart-HONy2" src="https://datawrapper.dwcdn.net/HONy2/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="425"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
+<hr></hr>
 
 ## PPI 6.6
 
 <iframe title="" aria-label="chart" id="datawrapper-chart-QW3my" src="https://datawrapper.dwcdn.net/QW3my/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="363"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-<iframe title="Responsiveness to Public Records Requests" aria-label="Interactive area chart" id="datawrapper-chart-dJOgl" src="https://datawrapper.dwcdn.net/dJOgl/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="450"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="Responsiveness to Public Records Requests" aria-label="Interactive area chart" id="datawrapper-chart-dJOgl" src="https://datawrapper.dwcdn.net/dJOgl/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
