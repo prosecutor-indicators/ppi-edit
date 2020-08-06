@@ -47,6 +47,13 @@ title = "Our Partners"
 
 
 +++
+
+#### The Philadelphia District Attorney's Office (Philadelphia, PA)
+
+- Serving Philadelphia County, 1.5 million residents
+- Larry Krasner, District Attorney since 2018
+- Office size: ~352 attorneys and ~40,000 cases filed annually
+
 #### The Office of the State Attorney for the 4th Judicial Circuit (Jacksonville, FL)
 
 - Serving Clay, Duval, and Nassau Counties, 1.2 million residents
