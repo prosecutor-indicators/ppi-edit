@@ -1,10 +1,10 @@
 ---
-title: Race, Ethnicity and Prosecution in Clay, Duval and Nassau Counties, Florida
+title: Race, Ethnicity and Prosecution in Milwaukee County, Wisconsin
 
 summary: ""
 authors: [""]
 featured: false
-date: 2019-08-01T22:06:05-06:00
+date: 2019-09-01T22:05:05-06:00
 # View.
 #   1 = List
 #   2 = Compact
@@ -12,7 +12,7 @@ date: 2019-08-01T22:06:05-06:00
 #   4 = Citation
 view: 3
 share: false
-url_pdf: "https://cj.fiu.edu/news/2019/assessing-racial-and-ethnic-disparities-in-criminal-case-outcomes-in-jacksonville-florida/assessing-racial-and-ethnic-disparities-in-criminal-case-outcomes-in-jacksonville-florida.pdf"
+url_pdf: "https://drive.google.com/file/d/1LPKAjnI2ymNtyGt_orG-8Bcj_VvbsQVr/view"
 
 
 publication_type: 'report'

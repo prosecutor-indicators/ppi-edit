@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Co-Director, Center for the Administration of Justice
+role:
 
 # Organizations/Affiliations
 organizations:

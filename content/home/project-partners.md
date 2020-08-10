@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
-title = "Our Advisors"
+title = "Advisors"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -48,42 +48,44 @@ title = "Our Advisors"
 
 +++
 
-## Steering Committee
 
-- Tina Chiu - New York City Mayor’s Office of Criminal Justice
-- Brian Johnson - University of Maryland
-- Miriam Krinsky - Fair and Just Prosecution
-- Ronald Wright - Wake Forest University
-
-
-
-## Advisory Board
 
 - Marlene Biener - Association of Prosecuting Attorneys
 - John Chisholm -  The Milwaukee County District Attorney’s Office
-- Stewart D’Alessio -  Florida International University
+- Tina Chiu - New York City Mayor’s Office of Criminal Justice
 - Reagan Daly -  Institute for State and Local Governance
+- Aisha Edwards - The MacArthur Foundation
 - Lauren-Brooke Eisen -  Brennan Center for Justice
 - Gipsy Escobar -  Measures for Justice
 - Kim Foxx - The Cook County State’s Attorney’s Office
+- Laurie Garduque - The MacArthur Foundation
 - Oren Gur - The Philadelphia District Attorney's Office
 - David Harris -  University of Pittsburgh
 - Kim Hindman - The Office of the State Attorney for the 13th Judicial Circuit
 - Jamila Hodge - Vera Institute of Justice
 - Michael Hollander - The Philadelphia District Attorney's Office
 - Michael Jacobson - Institute for State and Local Governance
+- Brian Johnson - University of Maryland
 - Larry Krasner - The Philadelphia District Attorney's Office
+- Miriam Krinsky - Fair and Just Prosecution
 - David LaBahn - Association of Prosecuting Attorneys
 - Kent Lovern - The Milwaukee County District Attorney’s Office
 - Melissa Nelson -  The Office of the State Attorney for the 4th Judicial Circuit
 - Lisa Page - The Office of the State Attorney for the 4th Judicial Circuit
-- Insha Rahman - Vera Institute of Justice
 - Meg Reiss - The Brooklyn District Attorney’s Office
 - Matthew Saniie - The Cook County State’s Attorney’s Office
 - Steve Siegel - The Office of the State Attorney for the 4th Judicial Circuit
 - Cassia Spohn - Arizona State University
-- Lisa Stolzenberg - Florida International University
 - Stephan Thomas - Prosecutor Impact 
 - Andrew Warren - The Office of the State Attorney for the 13th Judicial Circuit
 - Daniel Wilhelm - The Harry Frank Guggenheim Foundation
 - Scarlett Wilson - The Office of Solicitor for the Ninth Judicial Circuit
+- Jane Wiseman - Ash Center for Democratic Governance and Innovation
+- Ron Wright - Wake Forest University
+
+
+
+
+
+
+
