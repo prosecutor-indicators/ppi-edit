@@ -35,13 +35,19 @@ projects: []
 <iframe title="" aria-label="chart" id="datawrapper-chart-b1z0D" src="https://datawrapper.dwcdn.net/b1z0D/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="464"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+<p style="color:#008080"> No data is available for this indicator in our current partner sites. </p>
+
+<hr> </hr>
+
 ## PPI 9.2
 
 <iframe title="" aria-label="chart" id="datawrapper-chart-Z4W9P" src="https://datawrapper.dwcdn.net/Z4W9P/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="428"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-<iframe title="Dedication to Conviction Integrity" aria-label="chart" id="datawrapper-chart-ZQ9sN" src="https://datawrapper.dwcdn.net/ZQ9sN/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="450"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="Dedication to Conviction Integrity" aria-label="chart" id="datawrapper-chart-ZQ9sN" src="https://datawrapper.dwcdn.net/ZQ9sN/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="450"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
+<hr> </hr>
 
 ## PPI 9.3
 

@@ -75,7 +75,7 @@ projects: []
 <iframe title="" aria-label="chart" id="datawrapper-chart-URW8k" src="https://datawrapper.dwcdn.net/URW8k/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="498"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-<iframe title="Escalation in Offending" aria-label="chart" id="datawrapper-chart-FL6lT" src="https://datawrapper.dwcdn.net/FL6lT/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="450"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="Escalation in Offending" aria-label="chart" id="datawrapper-chart-FL6lT" src="https://datawrapper.dwcdn.net/FL6lT/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="450"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 <hr></hr>
@@ -85,7 +85,7 @@ projects: []
 <iframe title="" aria-label="chart" id="datawrapper-chart-QJNXM" src="https://datawrapper.dwcdn.net/QJNXM/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="481"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-<iframe title="Treating Serious Crime the Same Across Neighborhoods" aria-label="Interactive line chart" id="datawrapper-chart-1Thiq" src="https://datawrapper.dwcdn.net/1Thiq/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="Treating Serious Crime the Same Across Neighborhoods" aria-label="Interactive line chart" id="datawrapper-chart-1Thiq" src="https://datawrapper.dwcdn.net/1Thiq/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 <hr></hr>
@@ -97,6 +97,3 @@ projects: []
 
 <iframe title="Addressing the Opioid Epidemic" aria-label="Interactive line chart" id="datawrapper-chart-pfB4L" src="https://datawrapper.dwcdn.net/pfB4L/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
-
-<hr></hr>
-

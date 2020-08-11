@@ -36,7 +36,7 @@ projects: []
 <iframe title="" aria-label="chart" id="datawrapper-chart-Kh9mg" src="https://datawrapper.dwcdn.net/Kh9mg/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="363"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-<iframe title="Accessibility of Prosecutor's Office" aria-label="chart" id="datawrapper-chart-SUyLN" src="https://datawrapper.dwcdn.net/SUyLN/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="450"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="Accessibility of Prosecutor's Office" aria-label="chart" id="datawrapper-chart-SUyLN" src="https://datawrapper.dwcdn.net/SUyLN/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="450"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 <hr></hr>
@@ -46,6 +46,8 @@ projects: []
 <iframe title="" aria-label="chart" id="datawrapper-chart-mYHmH" src="https://datawrapper.dwcdn.net/mYHmH/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="431"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+<p style="color:#008080"> No data is available for this indicator in our current partner sites. </P>
+
 <hr></hr>
 
 ## PPI 6.3
@@ -53,12 +55,16 @@ projects: []
 <iframe title="" aria-label="chart" id="datawrapper-chart-548Ir" src="https://datawrapper.dwcdn.net/548Ir/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="498"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+<p style="color:#008080"> No data is available for this indicator in our current partner sites. </P>
+
 <hr></hr>
 
 ## PPI 6.4
 
 <iframe title="" aria-label="chart" id="datawrapper-chart-Xka3U" src="https://datawrapper.dwcdn.net/Xka3U/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="431"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
+<p style="color:#008080"> No data is available for this indicator in our current partner sites. </P>
 
 <hr></hr>
 

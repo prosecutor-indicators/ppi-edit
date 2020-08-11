@@ -76,7 +76,8 @@ title = "Advisors"
 - Matthew Saniie - The Cook County State’s Attorney’s Office
 - Steve Siegel - The Office of the State Attorney for the 4th Judicial Circuit
 - Cassia Spohn - Arizona State University
-- Stephan Thomas - Prosecutor Impact 
+- Stephan Thomas - Prosecutor Impact
+- Anthony Thompson - New York University
 - Andrew Warren - The Office of the State Attorney for the 13th Judicial Circuit
 - Daniel Wilhelm - The Harry Frank Guggenheim Foundation
 - Scarlett Wilson - The Office of Solicitor for the Ninth Judicial Circuit

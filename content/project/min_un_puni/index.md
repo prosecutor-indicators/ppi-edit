@@ -35,7 +35,7 @@ projects: []
 <iframe title="" aria-label="chart" id="datawrapper-chart-CpeZ0" src="https://datawrapper.dwcdn.net/CpeZ0/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="414"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-<iframe title="Avoiding Unnecessary Felony Charges at Filing" aria-label="Interactive line chart" id="datawrapper-chart-CUcUg" src="https://datawrapper.dwcdn.net/CUcUg/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="Avoiding Unnecessary Felony Charges at Filing" aria-label="Interactive line chart" id="datawrapper-chart-CUcUg" src="https://datawrapper.dwcdn.net/CUcUg/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 <hr> </hr>
@@ -55,7 +55,7 @@ projects: []
 <iframe title="" aria-label="chart" id="datawrapper-chart-ANXn6" src="https://datawrapper.dwcdn.net/ANXn6/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="397"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-<iframe title="Reducing Reliance on Pretrial Detention" aria-label="Interactive line chart" id="datawrapper-chart-Xagfs" src="https://datawrapper.dwcdn.net/Xagfs/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="450"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="Reducing Reliance on Pretrial Detention" aria-label="Interactive line chart" id="datawrapper-chart-Xagfs" src="https://datawrapper.dwcdn.net/Xagfs/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="450"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 <hr> </hr>
@@ -65,12 +65,16 @@ projects: []
 <iframe title="" aria-label="chart" id="datawrapper-chart-4zRJ9" src="https://datawrapper.dwcdn.net/4zRJ9/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="414"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+<p style="color:#008080"> No data is available for this indicator in our current partner sites. </P>
+
 <hr> </hr>
 
 ## PPI 8.5
 
 <iframe title="" aria-label="chart" id="datawrapper-chart-jRITB" src="https://datawrapper.dwcdn.net/jRITB/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="498"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
+<p style="color:#008080"> No data is available for this indicator in our current partner sites. </P>
 
 <hr> </hr>
 
@@ -79,6 +83,8 @@ projects: []
 <iframe title="" aria-label="chart" id="datawrapper-chart-Apw1i" src="https://datawrapper.dwcdn.net/Apw1i/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="481"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
+<p style="color:#008080"> No data is available for this indicator in our current partner sites. </P>
+
 <hr> </hr>
 
 ## PPI 8.7
@@ -86,10 +92,10 @@ projects: []
 <iframe title="" aria-label="chart" id="datawrapper-chart-7nLTa" src="https://datawrapper.dwcdn.net/7nLTa/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="599"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-<iframe title="Disproportionate Punishment for the Poor - Defense" aria-label="Interactive line chart" id="datawrapper-chart-gAPpI" src="https://datawrapper.dwcdn.net/gAPpI/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="Disproportionate Punishment for the Poor - Defense" aria-label="Interactive line chart" id="datawrapper-chart-gAPpI" src="https://datawrapper.dwcdn.net/gAPpI/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-<iframe title="Disproportionate Punishment for the Poor - Zip Code" aria-label="Interactive line chart" id="datawrapper-chart-x2BXJ" src="https://datawrapper.dwcdn.net/x2BXJ/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="Disproportionate Punishment for the Poor - Zip Code" aria-label="Interactive line chart" id="datawrapper-chart-x2BXJ" src="https://datawrapper.dwcdn.net/x2BXJ/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 
