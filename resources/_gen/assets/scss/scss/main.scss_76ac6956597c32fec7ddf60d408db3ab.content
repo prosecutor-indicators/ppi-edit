@@ -9291,10 +9291,8 @@ div.mermaid {
   text-overflow: ellipsis;
   background: #008080;
   transition: all 0.2s ease-out;
-  max-width: 400px;
-  max-height: 400px;
-  min-width: 400px;
-  min-height: 400px;
+  width: 250px;
+  height: 250px;
   border: 3px solid #FFFFFF;
   box-sizing: border-box;
   display: inside;
@@ -9304,22 +9302,20 @@ div.mermaid {
 .imp_card .card__heading {
   position: relative;
   z-index: 1;
-  margin: 200px 0 0 120px;
+  margin: 120px 0 0 80px;
   top: 0%;
   left: 0px;
   width: 0%;
   color: rgba(255, 255, 255, 0.3);
-  font-size: 520px;
+  font-size: 300px;
   line-height: 0; }
 
 .imp_card .card__footer {
-  position: relative;
+  position: absolute;
   z-index: 2;
-  margin: 0px 0 0 0px;
-  top: 159px;
-  left: 2%;
-  color: white;
-  font-size: 30px;
+  margin: 108px 0 0 5px;
+  color: #ffffff;
+  font-size: 18px;
   line-height: 0;
   text-decoration: none;
   font-weight: bold; }
@@ -9340,7 +9336,7 @@ div.mermaid {
   transition: all 0.2s ease-out; }
 
 .implementation-container {
-  max-width: 1200px;
+  max-width: 750px;
   margin: 0 auto 0 auto;
   align-content: center;
   align-items: center; }
