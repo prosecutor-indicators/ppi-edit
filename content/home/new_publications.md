@@ -36,14 +36,15 @@ subtitle = ""
  css_class = ""
 +++
 
-[Prosecutorial Attitudes, Perspectives, and Priorities - Insights from the Inside](https://www.luc.edu/media/lucedu/criminaljustice/pdfs/FIU%20Loyola%20_MacAthruth%20Prosecution%20Project%20Report%20One%20PDF.pdf)
+- Prosecutorial Attitudes, Perspectives, & Priorities-Insights from the Inside [&#8594;](https://www.luc.edu/media/lucedu/criminaljustice/pdfs/FIU%20Loyola%20_MacAthruth%20Prosecution%20Project%20Report%20One%20PDF.pdf)
 
-[Race, Ethnicity and Prosecution in Cook County, Illinois](https://drive.google.com/file/d/1EZxyEbH8ombfpmS30ZZOeVv7q8C9Xg8B/view)
+- Race, Ethnicity & Prosecution in Cook County, Illinois [&#8594;](https://drive.google.com/file/d/1EZxyEbH8ombfpmS30ZZOeVv7q8C9Xg8B/view)
 
-[Race, Ethnicity and Prosecution in Milwaukee County, Wisconsin](https://drive.google.com/file/d/1LPKAjnI2ymNtyGt_orG-8Bcj_VvbsQVr/view)
+- Race, Ethnicity & Prosecution in Milwaukee County, Wisconsin [&#8594;](https://drive.google.com/file/d/1LPKAjnI2ymNtyGt_orG-8Bcj_VvbsQVr/view)
 
-[Race, Ethnicity and Prosecution  in  Hillsborough County, Florida](https://cj.fiu.edu/news/2019/assessing-racial-and-ethnic-disparities-in-criminal-case-outcomes-in-hillsborough-county-florida/hillsborough-county-disparity-report-printable.pdf)
+- Race, Ethnicity & Prosecution  in  Hillsborough County, Florida [&#8594;](https://cj.fiu.edu/news/2019/assessing-racial-and-ethnic-disparities-in-criminal-case-outcomes-in-hillsborough-county-florida/hillsborough-county-disparity-report-printable.pdf)
 
-[Race, Ethnicity and Prosecution in Clay, Duval and Nassau Counties, Florida](https://cj.fiu.edu/news/2019/assessing-racial-and-ethnic-disparities-in-criminal-case-outcomes-in-jacksonville-florida/assessing-racial-and-ethnic-disparities-in-criminal-case-outcomes-in-jacksonville-florida.pdf)
+- Race, Ethnicity & Prosecution in Clay, Duval & Nassau Counties, Florida [&#8594;](https://cj.fiu.edu/news/2019/assessing-racial-and-ethnic-disparities-in-criminal-case-outcomes-in-jacksonville-florida/assessing-racial-and-ethnic-disparities-in-criminal-case-outcomes-in-jacksonville-florida.pdf)
+
 
 

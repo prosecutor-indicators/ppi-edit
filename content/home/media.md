@@ -36,9 +36,9 @@ subtitle = ""
  css_class = ""
 +++
 
-- A new effort was supposed to make Florida’s criminal justice data radically transparent. So far, it’s failed. - The Palm Beach Post, July, 2020 [&#8594;](https://www.palmbeachpost.com/news/20200702/new-effort-was-supposed-to-make-floridarsquos-criminal-justice-data-radically-transparent-so-far-itrsquos-failed/1)
-
 - Racial Disparities in the Criminal Justice System in Wisconsin – What We Know Thus Far - Badger Institute, July, 2020 [&#8594;](https://www.badgerinstitute.org/BI-Files/Images/RacialDisparities.pdf)
+
+- A new effort was supposed to make Florida’s criminal justice data radically transparent. So far, it’s failed. - The Palm Beach Post, July, 2020 [&#8594;](https://www.palmbeachpost.com/news/20200702/new-effort-was-supposed-to-make-floridarsquos-criminal-justice-data-radically-transparent-so-far-itrsquos-failed/1)
 
 - Study: Jacksonville prosecutors rarely influenced by race, except with case dismissals - The Florida Times Union, September, 2019 [&#8594;](https://www.jacksonville.com/news/20190911/study-jacksonville-prosecutors-rarely-influenced-by-race-except-with-case-dismissals)
 
