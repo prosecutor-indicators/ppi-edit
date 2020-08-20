@@ -47,32 +47,40 @@ title = "Partner Offices"
 
 
 +++
-#### The Office of the State Attorney for the 4th Judicial Circuit (Jacksonville, FL)
+
+
+
+<b> The Office of the State Attorney for the 4th Judicial Circuit (Jacksonville, FL) </b>
 
 - Serving Clay, Duval, and Nassau Counties, 1.2 million residents
 - Melissa Nelson, State Attorney since 2017
 - Office size: 116 attorneys and ~35,000 cases filed annually
 
-#### The Cook County State’s Attorney’s Office (Chicago, IL)
+<b> The Cook County State’s Attorney’s Office (Chicago, IL) </b>
+
 - Serving Chicago and Cook County, 5.2 million residents
 - Kim Foxx, State’s Attorney since 2016
 - Office size: 700 attorneys and ~300,000 cases filed annually
 
-#### The Office of the State Attorney for the 13th Judicial Circuit (Tampa, FL)
+<b> The Office of the State Attorney for the 13th Judicial Circuit (Tampa, FL) </b>
+
 - Serving Hillsborough County, 1.4 million residents
 - Andrew Warren, State Attorney since 2017
 - Office size: 130 attorneys and ~27,000 cases filed annually
 
-#### The Milwaukee County District Attorney’s Office (Milwaukee, WI) 
+<b> The Milwaukee County District Attorney’s Office (Milwaukee, WI)  </b>
+
 - Serving Milwaukee County, 950,000 residents
 - John Chisholm, District Attorney since 2007
 - Office size: 130 attorneys and ~10,000 cases filed annually
 
-#### The Philadelphia District Attorney's Office (Philadelphia, PA)
+<b> The Philadelphia District Attorney's Office (Philadelphia, PA) </b>
 
 - Serving Philadelphia County, 1.5 million residents
 - Larry Krasner, District Attorney since 2018
 - Office size: ~352 attorneys and ~40,000 cases filed annually
+
+
 
 
 

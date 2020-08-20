@@ -43,7 +43,7 @@ height = '`calc(100vh - 70px)`'  # " `calc(100vh - 70px)`"
 [[item]]
   title = ""
 
-  content = "To deploy indicators in your office see the implementation page."
+  content = "To deploy indicators in your office, see the implementation page."
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Call to action button (optional).

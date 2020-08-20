@@ -48,41 +48,50 @@ title = "Advisors"
 
 +++
 
+#### 
+
+<ul style="list-style: none;">
 
 
-- Marlene Biener - Association of Prosecuting Attorneys
-- John Chisholm -  The Milwaukee County District Attorney’s Office
-- Tina Chiu - New York City Mayor’s Office of Criminal Justice
-- Reagan Daly -  Institute for State and Local Governance
-- Aisha Edwards - The MacArthur Foundation
-- Lauren-Brooke Eisen -  Brennan Center for Justice
-- Gipsy Escobar -  Measures for Justice
-- Kim Foxx - The Cook County State’s Attorney’s Office
-- Laurie Garduque - The MacArthur Foundation
-- Oren Gur - The Philadelphia District Attorney's Office
-- David Harris -  University of Pittsburgh
-- Kim Hindman - The Office of the State Attorney for the 13th Judicial Circuit
-- Jamila Hodge - Vera Institute of Justice
-- Michael Hollander - The Philadelphia District Attorney's Office
-- Michael Jacobson - Institute for State and Local Governance
-- Brian Johnson - University of Maryland
-- Larry Krasner - The Philadelphia District Attorney's Office
-- Miriam Krinsky - Fair and Just Prosecution
-- David LaBahn - Association of Prosecuting Attorneys
-- Kent Lovern - The Milwaukee County District Attorney’s Office
-- Melissa Nelson -  The Office of the State Attorney for the 4th Judicial Circuit
-- Lisa Page - The Office of the State Attorney for the 4th Judicial Circuit
-- Meg Reiss - The Brooklyn District Attorney’s Office
-- Matthew Saniie - The Cook County State’s Attorney’s Office
-- Steve Siegel - The Office of the State Attorney for the 4th Judicial Circuit
-- Cassia Spohn - Arizona State University
-- Stephan Thomas - Prosecutor Impact
-- Anthony Thompson - New York University
-- Andrew Warren - The Office of the State Attorney for the 13th Judicial Circuit
-- Daniel Wilhelm - The Harry Frank Guggenheim Foundation
-- Scarlett Wilson - The Office of Solicitor for the Ninth Judicial Circuit
-- Jane Wiseman - Ash Center for Democratic Governance and Innovation
-- Ron Wright - Wake Forest University
+ <li>Marlene Biener - Association of Prosecuting Attorneys</li>
+ <li> John Chisholm - The Milwaukee County District Attorney’s Office</li>
+ <li> Tina Chiu - New York City Mayor’s Office of Criminal Justice </li>
+ <li> Reagan Daly - Institute for State and Local Governance</li>
+ <li> Aisha Edwards - The MacArthur Foundation</li>
+ <li> Lauren-Brooke Eisen - Brennan Center for Justice</li>
+ <li> Gipsy Escobar - Measures for Justice</li>
+ <li> Kim Foxx - The Cook County State’s Attorney’s Office</li>
+ <li> Laurie Garduque - The MacArthur Foundation</li>
+ <li> Oren Gur - The Philadelphia District Attorney's Office</li>
+ <li> David Harris - University of Pittsburgh</li>
+ <li> Kim Hindman - The Office of the State Attorney for the 13th Judicial Circuit</li>
+ <li>Jamila Hodge - Vera Institute of Justice</li>
+ <li>Michael Hollander - The Philadelphia District Attorney's Office</li>
+ <li>Michael Jacobson - Institute for State and Local Governance</li>
+ <li>Brian Johnson - University of Maryland</li>
+ <li>Larry Krasner - The Philadelphia District Attorney's Office</li>
+ <li>Miriam Krinsky - Fair and Just Prosecution</li>
+ <li>David LaBahn - Association of Prosecuting Attorneys</li>
+ <li>Kent Lovern - The Milwaukee County District Attorney’s Office</li>
+ <li>Melissa Nelson - The Office of the State Attorney for the 4th Judicial Circuit</li>
+ <li>Lisa Page - The Office of the State Attorney for the 4th Judicial Circuit</li>
+ <li>Meg Reiss - The Brooklyn District Attorney’s Office</li>
+ <li>Matthew Saniie - The Cook County State’s Attorney’s Office</li>
+ <li>Steve Siegel - The Office of the State Attorney for the 4th Judicial Circuit</li>
+ <li>Cassia Spohn - Arizona State University</li>
+ <li>Stephan Thomas - Prosecutor Impact</li>
+ <li>Anthony Thompson - New York University</li>
+ <li>Andrew Warren - The Office of the State Attorney for the 13th Judicial Circuit</li>
+ <li>Daniel Wilhelm - The Harry Frank Guggenheim Foundation</li>
+ <li>Scarlett Wilson - The Office of Solicitor for the Ninth Judicial Circuit</li>
+ <li>Jane Wiseman - Ash Center for Democratic Governance and Innovation</li>
+ <li>Ron Wright - Wake Forest University</li>
+
+</ul>
+
+
+
+
 
 
 
