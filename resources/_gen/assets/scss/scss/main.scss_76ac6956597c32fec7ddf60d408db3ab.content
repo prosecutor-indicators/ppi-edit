@@ -9273,7 +9273,7 @@ div.mermaid {
     .wrapper .l {
       grid-area: 4 / 3 / 5 / 4; } }
 
-@media (min-width: 600px) {
+@media (min-width: 300px) {
   .wrapper {
     grid-template-columns: repeat(auto);
     align-items: center;
