@@ -50,6 +50,10 @@ hero_media = "orange_red_chart.png" #"pretrial-time-to-disposition.png"
 
 +++
 
-<p style="line-height: 120%;"> <small style="FONT-SIZE:18px"> The PPIs are an office management and transparency tool. With <a href="https://drive.google.com/file/d/1MKJ0WH16jMlmyopPrFVOP6ef2Buz2iMd/view?usp=sharing"> 55 indicators</a> indicators targeting Capacity & Efficiency, Community Safety & Well-being, and Fairness & Justice, PPIs expand the criteria for prosecutorial success well beyond traditional metrics of conviction and crime rates. </small> </p> 
+<p style="line-height: 120%;"> <small style="FONT-SIZE:18px"> The Prosecutorial Performance Indicators are an office management, performance measurement, and transparency tool.</small>
+ </p> 
+
+<p><small style="FONT-SIZE:18px"> With <a href="https://drive.google.com/file/d/1MKJ0WH16jMlmyopPrFVOP6ef2Buz2iMd/view?usp=sharing"> 55 indicators,</a> PPIs measure performance toward three goals <b>Capacity & Efficiency</b>, <b>Community Safety & Well-being</b>, and <b>Fairness & Justice</b>.
+ </small>
 
 <p style="line-height: 120%;"> <small style="FONT-SIZE:18px">This website presents the indicators, guides, training materials, and sample data from partner offices to illustrate how the PPIs work in diverse jurisdictions.</small></p> 

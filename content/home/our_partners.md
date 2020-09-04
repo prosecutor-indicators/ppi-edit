@@ -80,6 +80,14 @@ title = "Partner Offices"
 - Larry Krasner, District Attorney since 2018
 - Office size: ~352 attorneys and ~40,000 cases filed annually
 
+<b> The Ninth Circuit Solicitor’s Office (Charleston, SC) </b>
+
+- Serving Charleston & Berkeley Counties, 639,000 residents
+- Scarlett A. Wilson, Solicitor since 2007
+- Office size: 50 attorneys and ~12,000 cases filed annually
+
+
+
 
 
 
