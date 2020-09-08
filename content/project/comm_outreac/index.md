@@ -46,7 +46,7 @@ projects: []
 <iframe title="" aria-label="chart" id="datawrapper-chart-mYHmH" src="https://datawrapper.dwcdn.net/mYHmH/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="369"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-<p style="color:#008080"> No data is available for this indicator in our current partner sites. </P>
+<p style="color:#008080"> Data from our current partner sites is forthcoming.</P>
 
 <hr></hr>
 
@@ -55,7 +55,7 @@ projects: []
 <iframe title="" aria-label="chart" id="datawrapper-chart-548Ir" src="https://datawrapper.dwcdn.net/548Ir/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="436"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-<p style="color:#008080"> No data is available for this indicator in our current partner sites. </p>
+<p style="color:#008080"> Data from our current partner sites is forthcoming. </p>
 
 <hr></hr>
 
