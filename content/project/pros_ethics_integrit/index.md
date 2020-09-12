@@ -32,7 +32,7 @@ projects: []
 
 ## PPI 9.1
 
-<iframe title="" aria-label="chart" id="datawrapper-chart-b1z0D" src="https://datawrapper.dwcdn.net/b1z0D/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="464"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="" aria-label="chart" id="datawrapper-chart-b1z0D" src="https://datawrapper.dwcdn.net/b1z0D/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="428"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 <p style="color:#008080"> Data from our current partner sites is forthcoming.</p>
@@ -47,7 +47,7 @@ projects: []
 <iframe title="Dedication to Conviction Integrity" aria-label="chart" id="datawrapper-chart-ZQ9sN" src="https://datawrapper.dwcdn.net/ZQ9sN/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="450"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-<iframe title="Dedication to Conviction Integrity" aria-label="chart" id="datawrapper-chart-SB72T" src="https://datawrapper.dwcdn.net/SB72T/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="Dedication to Conviction Integrity" aria-label="chart" id="datawrapper-chart-SB72T" src="https://datawrapper.dwcdn.net/SB72T/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 <hr> </hr>
@@ -64,7 +64,7 @@ projects: []
 
 ## PPI 9.4
 
-<iframe title="" aria-label="chart" id="datawrapper-chart-nAUVp" src="https://datawrapper.dwcdn.net/nAUVp/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="447"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="" aria-label="chart" id="datawrapper-chart-nAUVp" src="https://datawrapper.dwcdn.net/nAUVp/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="411"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 <iframe title="Charging Integrity" aria-label="Interactive line chart" id="datawrapper-chart-agndC" src="https://datawrapper.dwcdn.net/agndC/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();

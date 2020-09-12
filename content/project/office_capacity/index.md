@@ -33,7 +33,7 @@ projects: []
 ## PPI 1.1
 
 
-<iframe title="" aria-label="chart" id="datawrapper-chart-UqIng" src="https://datawrapper.dwcdn.net/UqIng/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="420"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="" aria-label="chart" id="datawrapper-chart-UqIng" src="https://datawrapper.dwcdn.net/UqIng/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="378"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 <iframe title="Office Misdemeanor and Felony Caseloads" aria-label="chart" id="datawrapper-chart-Kk9AW" src="https://datawrapper.dwcdn.net/Kk9AW/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
@@ -43,10 +43,10 @@ projects: []
 
 ## PPI 1.2
 
-<iframe title="" aria-label="chart" id="datawrapper-chart-hx0L6" src="https://datawrapper.dwcdn.net/hx0L6/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="435"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="" aria-label="chart" id="datawrapper-chart-hx0L6" src="https://datawrapper.dwcdn.net/hx0L6/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="345"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-<iframe title="Felony Caseload Distribution" aria-label="Interactive line chart" id="datawrapper-chart-cscSW" src="https://datawrapper.dwcdn.net/cscSW/8/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="Felony Caseload Distribution" aria-label="Interactive line chart" id="datawrapper-chart-cscSW" src="https://datawrapper.dwcdn.net/cscSW/9/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 <hr></hr>
@@ -80,7 +80,7 @@ projects: []
 ## PPI 1.5
 
 
-<iframe title="" aria-label="chart" id="datawrapper-chart-aFbdr" src="https://datawrapper.dwcdn.net/aFbdr/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="475"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="" aria-label="chart" id="datawrapper-chart-aFbdr" src="https://datawrapper.dwcdn.net/aFbdr/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="378"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 

@@ -62,10 +62,10 @@ projects: []
 
 ## PPI 8.4
 
-<iframe title="" aria-label="chart" id="datawrapper-chart-4zRJ9" src="https://datawrapper.dwcdn.net/4zRJ9/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="414"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="" aria-label="chart" id="datawrapper-chart-4zRJ9" src="https://datawrapper.dwcdn.net/4zRJ9/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="378"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
-<iframe title="Avoiding Felony Incarceration When Possible" aria-label="Interactive line chart" id="datawrapper-chart-naFW9" src="https://datawrapper.dwcdn.net/naFW9/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="Avoiding Felony Incarceration When Possible" aria-label="Interactive line chart" id="datawrapper-chart-naFW9" src="https://datawrapper.dwcdn.net/naFW9/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 <hr> </hr>
@@ -82,7 +82,7 @@ projects: []
 
 ## PPI 8.6
 
-<iframe title="" aria-label="chart" id="datawrapper-chart-Apw1i" src="https://datawrapper.dwcdn.net/Apw1i/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="481"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<iframe title="" aria-label="chart" id="datawrapper-chart-Apw1i" src="https://datawrapper.dwcdn.net/Apw1i/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="445"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
 
 <p style="color:#008080"> Data from our current partner sites is forthcoming.</P>
